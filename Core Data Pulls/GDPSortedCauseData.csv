@@ -1,0 +1,126 @@
+﻿Quintile,Cause_Name,Instances
+Q5,Total,29
+Q5,Sudden Infant Death Syndrome,13
+Q5,Extreme Immaturity,12
+Q5,Ill-defined and unknown cause of mortality,7
+Q5,Respiratory distress syndrome of newborn,5
+Q5,Extremely Low Birth Weight,4
+Q5,Newborn (suspected to be) affected by premature rupture of membranes,4
+Q5,Newborn (suspected to be) affected by chorioamnionitis,3
+Q5,Unspecified Short Gestation or Low Birth Weight,3
+Q5,"Bacterial sepsis of newborn, unspecified",2
+Q5,Birth Asphyxia,2
+Q5,"Congenital malformation of heart, unspecified",2
+Q5,Hydrops fetalis not due to hemolytic disease,2
+Q5,Preterm Infant,2
+Q5,Respiratory Distress of Newborn,2
+Q5,"Trisomy 18, unspecified",2
+Q5,Bacterial Sepsis,1
+Q5,"Cardiomyopathy, unspecified",1
+Q5,"Condition originating in the perinatal period, unspecified",1
+Q5,E75,1
+Q5,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]",1
+Q5,"Multiple congenital malformations, not elsewhere classified",1
+Q5,Necrotizing enterocolitis of fetus and newborn,1
+Q5,Neonatal cardiac failure,1
+Q5,Newborn (suspected to be) affected by incompetent cervix,1
+Q5,P522,1
+Q5,P91,1
+Q5,P916,1
+Q5,P96,1
+Q5,P968,1
+Q5,Q04,1
+Q5,Q24,1
+Q5,Q33,1
+Q5,Q61,1
+Q5,Q89,1
+Q5,"Respiratory distress of newborn, unspecified",1
+Q5,W759,1
+Q4,Total,24
+Q4,Respiratory distress syndrome of newborn,10
+Q4,Extreme Immaturity,9
+Q4,"Bacterial sepsis of newborn, unspecified",8
+Q4,"Congenital malformation of heart, unspecified",6
+Q4,Primary tuberculous infection,5
+Q4,Sudden Infant Death Syndrome,4
+Q4,Leptospiros icterohem,3
+Q4,Unspecified Short Gestation or Low Birth Weight,3
+Q4,Bacterial Sepsis,2
+Q4,Birth Asphyxia,2
+Q4,Chronic Myeloid Leukemia,2
+Q4,Extremely Low Birth Weight,2
+Q4,Hx-hodgkin's Lymphoma,2
+Q4,Ill-defined and unknown cause of mortality,2
+Q4,"Multiple congenital malformations, not elsewhere classified",2
+Q4,Necrotizing enterocolitis of fetus and newborn,2
+Q4,1074,1
+Q4,1095,1
+Q4,"Acute kidney failure, unspecified",1
+Q4,"Bronchopneumonia, unspecified organism",1
+Q4,"Congenital malformation of lung, unspecified",1
+Q4,Conjoined twins,1
+Q4,Hypoplastic right heart syndrome,1
+Q4,I46,1
+Q4,J960,1
+Q4,Neonatal cerebral ischemia,1
+Q4,Newborn (suspected to be) affected by chorioamnionitis,1
+Q4,Newborn (suspected to be) affected by multiple pregnancy,1
+Q4,P968,1
+Q4,Pneumonitis due to inhalation of food and vomit,1
+Q4,Q91,1
+Q4,R961,1
+Q4,Respiratory failure of newborn,1
+Q4,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1
+Q4,Unspecified pulmonary hemorrhage originating in the perinatal period,1
+Q3,Total,18
+Q3,"Bacterial sepsis of newborn, unspecified",8
+Q3,Respiratory distress syndrome of newborn,7
+Q3,Birth Asphyxia,5
+Q3,"Congenital malformation of heart, unspecified",3
+Q3,Extreme Immaturity,3
+Q3,Unspecified Short Gestation or Low Birth Weight,3
+Q3,Gastroenteritis and colitis of unspecified origin,2
+Q3,Ill-defined and unknown cause of mortality,2
+Q3,Pneumonia,2
+Q3,Primary tuberculous infection,2
+Q3,Respiratory Distress of Newborn,2
+Q3,Asphyxia,1
+Q3,Bacterial Sepsis,1
+Q3,"Bronchopneumonia, unspecified organism",1
+Q3,Chronic Myeloid Leukemia,1
+Q3,"Condition originating in the perinatal period, unspecified",1
+Q3,"Congenital pneumonia, unspecified",1
+Q3,Hx-hodgkin's Lymphoma,1
+Q3,"Infectious gastroenteritis and colitis, unspecified",1
+Q3,Intra-uterine hypoxia,1
+Q3,Leptospiros icterohem,1
+Q3,"Multiple congenital malformations, not elsewhere classified",1
+Q3,P240,1
+Q3,"Pneumonia, unspecified organism",1
+Q3,Preterm Infant,1
+Q3,"Respiratory distress of newborn, unspecified",1
+Q3,Respiratory failure of newborn,1
+Q3,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,1
+Q3,Unspecified pulmonary hemorrhage originating in the perinatal period,1
+Q3,W849,1
+Q2,Total,10
+Q2,Respiratory distress syndrome of newborn,5
+Q2,"Bacterial sepsis of newborn, unspecified",4
+Q2,"Congenital malformation of heart, unspecified",2
+Q2,"Congenital pneumonia, unspecified",2
+Q2,P23,2
+Q2,Pneumonia,2
+Q2,Preterm Infant,2
+Q2,Primary tuberculous infection,2
+Q2,"Respiratory distress of newborn, unspecified",2
+Q2,1095,1
+Q2,Asphyxia,1
+Q2,"Cholera, unspecified",1
+Q2,Gastroenteritis and colitis of unspecified origin,1
+Q2,Ill-defined and unknown cause of mortality,1
+Q2,Intra-uterine hypoxia,1
+Q2,Leptospiros icterohem,1
+Q2,"Pneumonia, unspecified organism",1
+Q2,Primary atelectasis of newborn,1
+Q2,Respiratory Distress of Newborn,1
+Q2,Sudden Infant Death Syndrome,1
